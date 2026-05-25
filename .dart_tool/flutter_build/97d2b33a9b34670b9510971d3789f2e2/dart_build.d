@@ -1,0 +1,1 @@
+ D:\\flutter_projects\\social_connect\\.dart_tool\\flutter_build\\97d2b33a9b34670b9510971d3789f2e2\\dart_build_result.json:  D:\\flutter\\bin\\cache\\dart-sdk\\version D:\\flutter_projects\\social_connect\\.dart_tool\\package_config.json D:\\flutter_projects\\social_connect\\pubspec.yaml d:\\flutter_projects\\social_connect\\.dart_tool\\package_config.json

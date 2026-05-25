@@ -1,0 +1,1 @@
+ D:\\flutter_projects\\social_connect\\.dart_tool\\flutter_build\\97d2b33a9b34670b9510971d3789f2e2\\native_assets.json: 
